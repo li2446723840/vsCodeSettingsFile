@@ -46,8 +46,10 @@
     "background.enabled": true,
     "background.useDefault": false,
     "background.customImages": [
-        "file:///E:/image/阳光明媚的草地树鲜花.jpg"//图片路径
-        // "file:///E:/image/阳光明媚的草地树鲜花.jpg"//图片路径
+        "file:///E:/image/360wallpaper.jpg",//图片路径
+        "file:///E:/image/325679.jpg",//图片路径
+        "file:///E:/image/1.jpg",//图片路径
+        // "file:///E:/image/阳光明媚的草地树鲜花.jpg",//图片路径
     ],
     "background.style": {
         "content": "''",
@@ -62,6 +64,7 @@
         "background-size": "cover",
         "opacity": 0.1
     },
+    "editor.minimap.enabled": false,
     //vscode底部状态栏设置
     "workbench.colorCustomizations": {
         "statusBar.background": "#3266c7",
@@ -69,6 +72,7 @@
         "statusBar.debuggingBackground": "#c70d0d"
     },
     "workbench.statusBar.visible": true,
+    "editor.copyWithSyntaxHighlighting": false,
     //文件类型和编程语言
     // "cSpell.enableFiletypes": [
     //     "bat",
